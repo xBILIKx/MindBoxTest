@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squares", "Squares\Squares.csproj", "{A819D2C5-307B-4A47-A727-6BEF767EC2F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{EA0BBBFF-173A-4483-A836-7882A0A9ACCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A819D2C5-307B-4A47-A727-6BEF767EC2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A819D2C5-307B-4A47-A727-6BEF767EC2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A819D2C5-307B-4A47-A727-6BEF767EC2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A819D2C5-307B-4A47-A727-6BEF767EC2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0BBBFF-173A-4483-A836-7882A0A9ACCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0BBBFF-173A-4483-A836-7882A0A9ACCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0BBBFF-173A-4483-A836-7882A0A9ACCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0BBBFF-173A-4483-A836-7882A0A9ACCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
